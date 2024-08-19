@@ -1,0 +1,19 @@
+{
+  "name": "wc-modal-import-issue",
+  "version": "1.0.0",
+  "dependencies": {
+    "@walletconnect/modal": "2.6.2"
+  },
+  "devDependencies": {
+    "typescript": "5.5.4"
+  },
+  "scripts": {
+    "compile": "tsc"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
